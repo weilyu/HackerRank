@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 /**
  * Created by edwinlyu on 9/27/16.
+ * https://www.hackerrank.com/challenges/game-of-thrones
  */
 public class GameOfThrones {
     public static void main(String[] args) {

@@ -12,7 +12,7 @@ import java.util.Scanner;
  * Given a string, , of length that is indexed from to , print its even-indexed and odd-indexed characters as
  * space-separated strings on a single line (see the Sample below for more detail).
  */
-public class LetsReview {
+public class Day6 {
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner scanner = new Scanner(System.in);

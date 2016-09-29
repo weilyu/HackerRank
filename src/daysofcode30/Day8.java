@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Created by wei on 2016/09/29.
  */
 public class Day8 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numPerson = scanner.nextInt();
         HashMap<String, String> phoneBook = new HashMap<>();

@@ -1,10 +1,10 @@
 package daysofcode30;
 
 /**
- * Created by edwinlyu on 10/5/16.
+ * Created by edwin lyu on 10/5/16.
+ * https://www.hackerrank.com/challenges/30-linked-list
  */
 
-import java.io.*;
 import java.util.*;
 
 class Node {

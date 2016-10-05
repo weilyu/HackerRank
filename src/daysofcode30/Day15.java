@@ -17,7 +17,7 @@ class Node {
     }
 }
 
-public class Day16 {
+public class Day15 {
     public static Node insert(Node head, int data) {
         //Complete this method
         if (head == null)
